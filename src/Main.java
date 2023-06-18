@@ -50,7 +50,7 @@ System.out.println("Dilatação Linear na qual você quer descobrir o delta L");
 	public static void CoeficienteDilatação() {
 		System.out.println("Dilatação linear na qual você quer descobrir o coeficiente de dilatação");
 		
-		System.out.println("Insira o comprimento inícial");
+		System.out.println("Insira o comprimento inícial ");
 		
 	}
 	
